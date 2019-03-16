@@ -1,0 +1,2 @@
+Sistema simples para agendamento de consultas desenvolvido em dupla com Ramon Percicotti Flauzino como projeto final para a disciplina de Fundamentos de Programação 2, do segundo período do curso de Engenharia Eletrônica da UTFPR.
+Para login inicial, utilizar dados do arquivo não criptografado Registros.txt de login e senha.
